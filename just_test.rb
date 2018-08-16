@@ -3,4 +3,5 @@ def test_method
  puts '*' * 100
  puts 'test method'
  puts '*' * 100
+ # There is an end for everything
 end
