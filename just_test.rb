@@ -9,3 +9,6 @@ def check_this_commit
  puts "_/\_/\_/\_" * 10
   puts "_/\_/\_/\_" * 10
 end
+
+def method_one
+end
