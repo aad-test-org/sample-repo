@@ -11,5 +11,5 @@ def check_this_commit
 end
 
 def method_one
- # bla
+ # bla 1
 end
