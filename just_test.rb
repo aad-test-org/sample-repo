@@ -9,3 +9,12 @@ def check_this_commit
  puts "_/\_/\_/\_" * 10
   puts "_/\_/\_/\_" * 10
 end
+
+def method_one
+ # bla td 6
+ # [TD-4, JN-11]
+  # [TD-4, JN-11] 2
+   # [TD-4, JN-11] 3
+    # [TD-4, JN-11] 4
+ # [TD-4, JN-11] djfsdjflkasfkdasjklfasdfjldsakfjdsklfjlsadkjf
+end
