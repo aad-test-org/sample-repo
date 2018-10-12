@@ -23,5 +23,5 @@ def pull_request
   # JN-9, TD-3 1
  # TD-2, JN-8
  # TD-5,JN-4
- # JN-2, JN-7
+ # JN-2, JN-7 
 end
