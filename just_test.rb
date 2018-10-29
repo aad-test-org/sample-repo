@@ -27,4 +27,5 @@ def pull_request
  #JN-7
  #DEF-5
  #DIN-162 
+ # DOIT-86 and DIN-179
 end
