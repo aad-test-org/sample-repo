@@ -28,5 +28,5 @@ def pull_request
  #DEF-5
  #DIN-162 
  # DOIT-86 and DIN-179 DIN-178
- # YUT-53
+ # YUT-53 1
 end
