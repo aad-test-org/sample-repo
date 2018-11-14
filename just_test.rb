@@ -29,4 +29,5 @@ def pull_request
  #DIN-162 
  # DOIT-86 and DIN-179 DIN-178
  # YUT-53 1 21 22
+ #PIKA-26
 end
