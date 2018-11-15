@@ -33,3 +33,7 @@ def pull_request
  # YUT-53 1 21 22
  #PIKA-26
 end
+
+def QWER
+ # QWER-2
+end
