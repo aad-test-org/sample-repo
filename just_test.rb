@@ -36,4 +36,5 @@ end
 
 def new_commits
 # BL-22, DIN-4
+ #BL-22
 end
