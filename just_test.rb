@@ -39,4 +39,5 @@ def new_commits
  #BL-22
  # BL-43
  # DIN-225 BL-44
+ #PIKA-2
 end
