@@ -42,5 +42,5 @@ def new_commits
  #PIKA-2
  #PIKA-1
  #PIKA-67
- #PIKA-69
+ #PIKA-69 DEF-20
 end
