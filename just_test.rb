@@ -43,5 +43,5 @@ def new_commits
  # BL-43
  # DIN-225 BL-44
  #PIKA-2
- #PIKA-1 TE-2 TE-5
+ #PIKA-1 TE-2 TE-5 TE-5
 end
